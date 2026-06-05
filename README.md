@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Hi, I'm Hayoung Jung!
+I'm an incoming **MSc Information Studies (Data Science track)** student at the University of Amsterdam.
+
+I'm passionate about building robust data architecture that empowers decision-making and creating data solutions that are both reliable and accessible.
+
 
 <!--
 **hayoung021/hayoung021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
